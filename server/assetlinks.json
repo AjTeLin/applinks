@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "me.lesmtech.applinks",
+    "sha256_cert_fingerprints": ["5B:7C:37:72:A9:CF:0E:58:5C:4D:0F:04:67:AE:15:2D:31:01:72:EB:DB:F3:A3:8D:C3:0A:81:07:79:A2:2A:E9"]
+  }
+}]
